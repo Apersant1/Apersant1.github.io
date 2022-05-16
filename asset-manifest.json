@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Apersant1/Apersant1.github.io.git/static/css/main.e7c8ae61.css",
-    "main.js": "/Apersant1/Apersant1.github.io.git/static/js/main.36a6357d.js",
-    "index.html": "/Apersant1/Apersant1.github.io.git/index.html",
-    "main.e7c8ae61.css.map": "/Apersant1/Apersant1.github.io.git/static/css/main.e7c8ae61.css.map",
-    "main.36a6357d.js.map": "/Apersant1/Apersant1.github.io.git/static/js/main.36a6357d.js.map"
+    "main.css": "/static/css/main.e7c8ae61.css",
+    "main.js": "/static/js/main.36a6357d.js",
+    "index.html": "/index.html",
+    "main.e7c8ae61.css.map": "/static/css/main.e7c8ae61.css.map",
+    "main.36a6357d.js.map": "/static/js/main.36a6357d.js.map"
   },
   "entrypoints": [
     "static/css/main.e7c8ae61.css",
